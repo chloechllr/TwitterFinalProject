@@ -1,0 +1,3 @@
+data_collection/config.py
+data_collection/__pycache__/*
+*.DS_Store
